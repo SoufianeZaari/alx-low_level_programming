@@ -4,7 +4,7 @@
  *
  * This function is the entry point of the program.
  *
- * return 0 on successful execution.
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
