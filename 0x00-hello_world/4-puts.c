@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * @brief The main function of the program.
+ * main - Entry point
  *
  * This function is the entry point of the program.
  *
- * @return 0 on successful execution.
+ * return 0 on successful execution.
  */
 int main(void)
 {
