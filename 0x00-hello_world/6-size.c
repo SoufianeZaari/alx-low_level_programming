@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-	sizeof();
+	sizeof(main);
 	return (0);
 }
