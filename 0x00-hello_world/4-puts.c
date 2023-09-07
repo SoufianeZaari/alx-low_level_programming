@@ -1,7 +1,4 @@
 #include <stdio.h>
-int main(void)
-{
-char *message = "\"Programming is like building a multilingual puzzle";
 /**
  * @brief The main function of the program.
  *
@@ -9,6 +6,9 @@ char *message = "\"Programming is like building a multilingual puzzle";
  *
  * @return 0 on successful execution.
  */
+int main(void)
+{
+char *message = "\"Programming is like building a multilingual puzzle";
 puts(message);
 return (0);
 }
