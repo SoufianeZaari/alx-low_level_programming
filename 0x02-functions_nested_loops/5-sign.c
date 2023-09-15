@@ -25,7 +25,7 @@ int print_sign(int n)
 		return (-1);
 	}
 
-	// Ajout d'un return par défaut pour éviter le warning
+	/* Ajout d'un return par défaut pour éviter le warning */
 	return (0);
 }
 
