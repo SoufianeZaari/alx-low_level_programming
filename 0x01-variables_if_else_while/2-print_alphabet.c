@@ -4,14 +4,15 @@
  *
  * Return: Always 0 (Success)
  */
-int main(void)
+int main()
 {
-char alp[26] = "abcdefghijklmnopqrstuvwxyz";
-int i;
-for (i = 0; i < 26; i++)
-{
-putchar(alp[i]);
+    char first='a',last='z',i;
+    for (i=first; i<=last; i++)
+    {
+        putchar(i); // Display the current character
+
+    }
+     putchar('\n');
+    return 0;
 }
-putchar('\n');
-return (0);
-}
+
