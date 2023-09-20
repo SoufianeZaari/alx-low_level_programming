@@ -8,7 +8,7 @@
 int main(void)
 {
 int i;
-char first = 'a' ,last = 'f' ,n;
+char first = 'a', last = 'f', n;
 for (i = 0; i < 10; i++)
 {
 putchar('0' + i);
