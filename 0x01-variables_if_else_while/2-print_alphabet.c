@@ -8,5 +8,5 @@ for (i = first; i <= last; i++)
 putchar(i); /* Display the current character */
 }
 putchar('\n');
-return(0);
+return (0);
 }
